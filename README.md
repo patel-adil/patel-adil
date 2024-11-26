@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilpatel" alt="adilpatel" /></a> </p>
 
-- 🔭 I’m currently working on **DeveOp,Full-Stack Web-Developewr and Android Developer**
+- 🔭 I’m currently working on **DeveOp,Full-Stack Web-Developer and Android Developer**
 
 - 🌱 I’m currently learning **Node.js,**
 
